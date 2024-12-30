@@ -1,3 +1,9 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://dotsupershow.github.io/publii-jesse-kramer-website/sitemap.xml
