@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jesse Kramer Website",
+    "description": "",
+    "home_page_url": "https://dotsupershow.github.io/publii-jesse-kramer-website",
+    "feed_url": "https://dotsupershow.github.io/publii-jesse-kramer-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jesse Kramer"
+    },
+    "items": [
+    ]
+}
