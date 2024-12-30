@@ -3,10 +3,30 @@
     <title>Thoughts and Articles</title>
     <link href="https://dotsupershow.github.io/publii-jesse-kramer-website/feed.xml" rel="self" />
     <link href="https://dotsupershow.github.io/publii-jesse-kramer-website" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2024-12-30T14:29:04-05:00</updated>
     <author>
         <name>Jesse Kramer</name>
     </author>
     <id>https://dotsupershow.github.io/publii-jesse-kramer-website</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Jesse Kramer</name>
+        </author>
+        <link href="https://dotsupershow.github.io/publii-jesse-kramer-website/test.html"/>
+        <id>https://dotsupershow.github.io/publii-jesse-kramer-website/test.html</id>
+
+        <updated>2024-12-30T14:29:04-05:00</updated>
+            <summary>
+                <![CDATA[
+                    this is a test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is a test post</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
